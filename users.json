@@ -1,0 +1,27 @@
+[
+  {
+    "email": "test@test.com",
+    "password": "mypassword",
+    "id": "a44e7c04"
+  },
+  {
+    "email": "akirauekita2002@gmail.com",
+    "password": "kade",
+    "id": "14928380"
+  },
+  {
+    "email": "akirauekita2001@gmail.com",
+    "password": "kade",
+    "id": "bdcba8c0"
+  },
+  {
+    "email": "akira2@gmail.com",
+    "password": "047844169f93df606f89e63904f552858dd0bbba5e50c060c6265a8d415ef2a3ff2a054ab29438afdb536cb4ede032420d67bb45a322d50404dc86b1ca88e704.7766e3321b2dc651",
+    "id": "501f897c"
+  },
+  {
+    "email": "akirauekita@gmail.com",
+    "password": "bfe1b77cffff9cbfad3f23f623c6966c8fb8024659d7c55312aa4015ad133882876ddf8b1de0e77131b948a832ba031db2144d0724bda6e80f2ce01fb6d22295.4a40b5f44934effd",
+    "id": "361dcc64"
+  }
+]
